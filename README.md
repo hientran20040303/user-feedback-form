@@ -24,5 +24,5 @@ The goal was to create a responsive user experience that validates data and upda
 
 ## 🏃 Website URL
 ```bash
-https://hientran20040303.github.io/Coding-Project-01/
+https://hientran20040303.github.io/user-feedback-form/
 ```
